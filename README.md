@@ -1,16 +1,6 @@
 # firebase_formAuth
 
-A new Flutter project.
+A Flutter Firebase auth project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![222](https://user-images.githubusercontent.com/81833063/204052110-51a429f4-2a5d-487f-94cf-53cc23e879d9.png)
+![11](https://user-images.githubusercontent.com/81833063/204052118-bcbd9805-d1de-497f-9d5b-d2306b9ef263.png)
